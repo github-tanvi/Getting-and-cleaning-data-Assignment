@@ -1,7 +1,5 @@
 # Getting-and-cleaning-data-Assignment
 
-setwd("C://Users/GIZFG/OneDrive - Bayer/Desktop/Coursera/getting and data cleaning")
-
 #1.Download the file and put the file in the data folder
 
 if(!file.exists("./data")){dir.create("./data")}
